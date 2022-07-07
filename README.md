@@ -11,10 +11,10 @@ I'm Rafael, Electrical Engineer by training that transitioned career to software
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/e5e75adb-17b9-45f6-934d-5bbc2df227d0/public_url"><img src="/python-for-data-science-and-ai.png" width="130" height="130"></a>
-
-<a href="https://www.credly.com/badges/002bf10c-47a6-4ad4-9487-7c8a5486e097/public_url"><img src="/microsoft-certified-azure-developer-associate.1" width="130" height="130"></a>
-  
+<p float="left">
+  <a href="https://www.credly.com/badges/e5e75adb-17b9-45f6-934d-5bbc2df227d0/public_url"><img src="/python-for-data-science-and-ai.png" width="130" height="130"></a>
+  <a href="https://www.credly.com/badges/002bf10c-47a6-4ad4-9487-7c8a5486e097/public_url"><img src="/microsoft-certified-azure-developer-associate.1.png" width="130" height="130"></a>
+</p>
 
 ## Social Media
 

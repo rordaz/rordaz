@@ -2,6 +2,8 @@
 
 I'm Rafael, Electrical Engineer by training that transitioned career to software development. I enjoy learning new languages and technologies, most of my experience is on Microsoft Stack and Azure. I also enjoying working with microprocessors (iOT) like Particle's Photon and building solutions that solve day-to-day problems.
 
+Full Resume can be found here: [rordaz.github.io/resume](https://rordaz.github.io/resume)
+
 ## Skills and Experience
 * :hash: C#
 * :snake: Python

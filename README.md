@@ -16,6 +16,7 @@ Full Resume can be found here: [rordaz.github.io/resume](https://rordaz.github.i
 <p float="left">
   <a href="https://www.credly.com/badges/e5e75adb-17b9-45f6-934d-5bbc2df227d0/public_url"><img src="/python-for-data-science-and-ai.png" width="130" height="130"></a>
   <a href="https://www.credly.com/badges/918b8822-87f7-4d85-84dc-f0389e837cbd/public_url"><img src="/microsoft-certified-azure-developer-associate.1.png" width="130" height="130"></a>
+  <a href="https://coursera.org/share/bf2aa501b6e163a5c29d193116a00cd2"><img src="resources\MachineLearningSpecializationBadge.png" width="130" height="130"></a>
 </p>
 
 

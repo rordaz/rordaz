@@ -1,6 +1,6 @@
 # Rafael Ordaz
 
-I'm Rafael, Electrical Engineer by training that transitioned career to software development. I enjoy learning new languages and technologies, most of my experience is on Microsoft Stack (C#,SQL, WPF, MVVM) and Azure (Azure Certification AZ-204 or Developer Associate). I also enjoying working with microprocessors (iOT) like Particle's Photon and building solutions that solve day-to-day problems. Some of my independent work is shown here in my repositories.
+I'm Rafael, Electrical Engineer by training with multiple years of experience in software development. I enjoy learning new languages and technologies, most of my experience is on Microsoft Stack (C#,SQL, WPF, MVVM) and Azure (Azure Certification AZ-204 or Developer Associate). I also enjoying working with microprocessors (iOT) like Particle's Photon and building solutions that solve day-to-day problems. Some of my independent work is shown here in my repositories.
 
 Full Resume can be found here: [rordaz.github.io/resume](https://rordaz.github.io/resume)
 

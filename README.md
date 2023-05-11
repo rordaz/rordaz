@@ -8,6 +8,7 @@ Full Resume can be found here: [rordaz.github.io/resume](https://rordaz.github.i
 * :hash: C#
 * :snake: Python
 * :coffee: Java
+* :computer: C++
 * :minidisc: SQL Server, MySQL
 * :computer:  HTML, CSS, JS
 
